@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="image.png" alt="Logo" width="80" height="80">
+    <img src="image.png" alt="Logo">
   </a>
 
   <h3 align="center">Bootstrap exemple</h3>
